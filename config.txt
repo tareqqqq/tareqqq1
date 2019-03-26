@@ -1,6 +1,6 @@
-owner=521688630503276544
-prefix=D
-game=Dplay
+owner=473152645964759047
+prefix=B
+game=Bplay
 stayinchannel=true
 songinstatus=false
-token=NTU4NTE5NzM4MTAwMjE5OTA0.D3YBmg.-B17fOuTP7_xZcnSBV47FewyjyU
+token=NTU5OTc3NDkwNDI1MzE1MzI4.D3tPcQ.fJt6rJObQ1YBM8rcsMFDS6W42Kw
